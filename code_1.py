@@ -7,8 +7,7 @@ print("                   | |  _        _          _              __    _       
 print("                   |_| |_| |\ | |  _  |\/| |_| |\ |       |  _  |_| |\  /| |_")
 print("                   | | | | | \| |_| | |  | | | | \|       |_| | | | | \/ | |_")
 print()
-print()
-print("\033[1m      THERE ARE 3 LEVELS   \n LEVEL 1)SPORTS \n LEVEL 2)PLACES \n LEVEL 3)CHEMICAL NAMES\033[0m")
+print()print("\033[1m      THERE ARE 3 LEVELS   \n LEVEL 1)SPORTS \n LEVEL 2)PLACES \n LEVEL 3)CHEMICAL NAMES\033[0m")
 level=int(input("\033[1m      CHOOSE A LEVEL TO PLAY\n\033[0m"))
 
 str1 = ""
